@@ -87,11 +87,6 @@ plt.show()
     
 
 
-
-```python
-
-```
-
 We used matplotlib to plot both the linear function and the sine function. How did we determine what the x and y axes were, and how did we plot them?
 
 We want to use a third-degree polynomial to approximate a sine function. The coefficients of the polynomial are the **weights** of the network we will construct. 
@@ -276,96 +271,5 @@ d = -0.092
 We update the weights each training cycle using the learning rate, which we determine ahead of time.
 
 
-```python
-
-```
 
 
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
