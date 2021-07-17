@@ -1,3 +1,8 @@
+---
+layout: post
+title: Curve-fitting and function approximation
+---
+
 A function like F = 1.8C + 32 can be defined by a set of points that are then fitted to a function. In this case the relationship between Celsius and Fahrenheit is linear. 
 
 
